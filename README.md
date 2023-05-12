@@ -1,0 +1,2 @@
+# Exoplanet-Classification-using-Orbital-and-Stellar-Characteristics-
+The NASA Exoplanet Archive provided data on exoplanets and host stars. Eight classification models were evaluated using ROC curves. Logistic regression, SVM, random forest, neural network, and AdaBoost emerged as top-performing models with AUC of 0.99, showcasing their effectiveness in accurately classifying exoplanet candidates.
